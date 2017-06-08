@@ -1,0 +1,22 @@
+{
+  "version": "0.0.1",
+  "manifestVersion": "0.1.0",
+  "name": "theme-elementary",
+  "description": "Theme to fit in elementary OS",
+  "author": {
+    "name": "Gaurav Pareek",
+    "email": "me@grv.rocks",
+    "url": "https://grv.rocks"
+  },
+  "resources": {
+    "css": "TphTECThB2RAwtRsYZXfjXTZD9jgsz1rnJKgowaDejx1Vny22n4nquvOdISI0RdUuzzKPfkOzzEGvInKu94EXEX170CzQzvRkwIon+0aZ2U+GiFkTwdAAlrzvODGqVb/FcJArkuy7AYqXQJqK6ctgcP3fNiaYH+ADxwLEuzNlLFSv4TUKQNxXyeTMBlV4EfN2K+sJZXVlUrYqxMDcObwpEA9JJy7mLCYGnuRX0I+lA94/h3vxDfg6WVf8lI7DLOJcYeuMfvg1VtJL2tc1JShaMZ2j30qsqU37hPY770sIh/kDZZ1IjCOCJ1JffNq4HNtIe+dkTlyD4UFgL3PoBlJOw=="
+  },
+  "licence": "MIT",
+  "url": "https://github.com",
+  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtGizn2qMSzsuckN4eGu9dUj/ESKRsz97a1+7JGBlgG+T60gWe0ygDmb/NvgEtcycGYounl0Fvpn0lswki+pBV9DesOwRbgCNoqSc9FKz10zUGmUf8b3TK4xa4D04iihJJJbQmRCCIbuBB2a5I1P4hwc5dLTHoRFUXnttSVqEYpwbPboaYz4vZGO71cGqR2XNdjana2i+GRgy0B2ahBtwyE8gebZWE+GT6exFCOVmOTHcD2gbIQhULx2EcKBLfpqnFuGlTeKIuzDLGML8xsFoILKbptJk82YMOIuC9rP7nqeUP5CzlHHXX4BW4zC2LidIxLEbCWkaIWsXOiOsFFKQqQIDAQAB",
+  "license": "MIT",
+  "theme": {
+    "name": "elementary",
+    "title": "elementary"
+  }
+}
